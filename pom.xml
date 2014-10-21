@@ -16,12 +16,6 @@
 			<groupId>storm</groupId>
 			<artifactId>storm</artifactId>
 			<version>0.9.0.1</version>
-			<exclusions>
-				<exclusion>
-					<artifactId>log4j-over-slf4j</artifactId>
-					<groupId>org.slf4j</groupId>
-				</exclusion>
-			</exclusions>
 		</dependency>
 	</dependencies>
 
